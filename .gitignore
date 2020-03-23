@@ -103,3 +103,6 @@ ENV/
 
 # checkpoint
 checkpoint
+
+# test outputs
+output_image.jpg
